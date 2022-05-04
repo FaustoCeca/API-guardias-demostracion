@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "date": "2022-01-05",
+        "hourStarts": "08:00",
+        "hourEnds": "20:00",
+        "place": "VGG",
+        "comment": "That place is cool"
+    },
+    {
+        "id": 2,
+        "date": "2022-02-05",
+        "hourStarts": "20:00",
+        "hourEnds": "08:00",
+        "place": "Perez",
+        "comment": "That place is cool"
+    },
+    {
+        "id": 3,
+        "date": "2022-03-05",
+        "hourStarts": "08:00",
+        "hourEnds": "20:00",
+        "place": "Rosario",
+        "comment": "That place is cool"
+    },
+    {
+        "id": 4,
+        "date": "2022-04-05",
+        "hourStarts": "20:00",
+        "hourEnds": "08:00",
+        "place": "VGG",
+        "comment": "That place is cool"
+    },
+    {
+        "id": 5,
+        "date": "2022-05-05",
+        "hourStarts": "08:00",
+        "hourEnds": "20:00",
+        "place": "Perez",
+        "comment": "That place is cool"
+    }
+]
